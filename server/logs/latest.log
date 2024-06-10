@@ -1,0 +1,1202 @@
+[11:21:37] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[11:21:37] [Server thread/INFO]: Loading properties
+[11:21:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:21:37] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[11:21:37] [Server thread/INFO]: Debug logging is disabled
+[11:21:37] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[11:21:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[11:21:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:21:37] [Server thread/INFO]: Data value allowed items: 
+[11:21:37] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[11:21:37] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[11:21:37] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[11:21:37] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[11:21:37] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[11:21:37] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[11:21:37] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[11:21:37] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[11:21:37] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[11:21:37] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[11:21:37] [Server thread/INFO]: Generating keypair
+[11:21:38] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[11:21:38] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[11:21:38] [Server thread/INFO]: Using default channel type
+[11:21:38] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:21:38] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[11:21:38] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[11:21:38] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[11:21:39] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[11:21:39] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v23.12.2
+[11:21:40] [Server thread/INFO]: [BedWars1058] Loading support for paper/spigot: v1_8_R3
+[11:21:41] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v3.0.4
+[11:21:41] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v4.6
+[11:21:41] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Loading ajLeaderboards v2.8.0
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[11:21:41] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[11:21:42] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[11:21:42] [Server thread/INFO]: [HolographicExtension] Loading HolographicExtension v1.10.9
+[11:21:42] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[11:21:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:21:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:21:42] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[11:21:42] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[11:21:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:21:42] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:21:42] [Server thread/INFO]: Preparing level "world"
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:21:42] [Server thread/INFO]: Mob Spawn Range: 4
+[11:21:42] [Server thread/INFO]: Anti X-Ray: true
+[11:21:42] [Server thread/INFO]: 	Engine Mode: 1
+[11:21:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:21:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:21:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:21:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:21:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:21:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:21:42] [Server thread/INFO]: Random Lighting Updates: false
+[11:21:42] [Server thread/INFO]: Structure Info Saving: true
+[11:21:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:21:42] [Server thread/INFO]: Max Entity Collisions: 8
+[11:21:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:21:42] [Server thread/INFO]: Max TNT Explosions: 100
+[11:21:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:21:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:21:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:21:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:21:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:21:42] [Server thread/INFO]: View Distance: 4
+[11:21:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:21:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:21:42] [Server thread/INFO]: Clear tick list: false
+[11:21:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:21:42] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:21:42] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:21:42] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:21:42] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:21:42] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:21:42] [Server thread/INFO]: Water over lava flow speed: 5
+[11:21:42] [Server thread/INFO]: Fix TNT cannons: false
+[11:21:42] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:21:42] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:21:42] [Server thread/INFO]: World async lighting: false
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:21:42] [Server thread/INFO]: Mob Spawn Range: 4
+[11:21:42] [Server thread/INFO]: Anti X-Ray: true
+[11:21:42] [Server thread/INFO]: 	Engine Mode: 1
+[11:21:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:21:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:21:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:21:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:21:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:21:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:21:42] [Server thread/INFO]: Random Lighting Updates: false
+[11:21:42] [Server thread/INFO]: Structure Info Saving: true
+[11:21:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:21:42] [Server thread/INFO]: Max Entity Collisions: 8
+[11:21:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:21:42] [Server thread/INFO]: Max TNT Explosions: 100
+[11:21:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:21:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:21:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:21:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:21:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:21:42] [Server thread/INFO]: View Distance: 4
+[11:21:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:21:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:21:42] [Server thread/INFO]: Clear tick list: false
+[11:21:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:21:42] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:21:42] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:21:42] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:21:42] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:21:42] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:21:42] [Server thread/INFO]: Water over lava flow speed: 5
+[11:21:42] [Server thread/INFO]: Fix TNT cannons: false
+[11:21:42] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:21:42] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:21:42] [Server thread/INFO]: World async lighting: false
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:21:42] [Server thread/INFO]: Mob Spawn Range: 4
+[11:21:42] [Server thread/INFO]: Anti X-Ray: true
+[11:21:42] [Server thread/INFO]: 	Engine Mode: 1
+[11:21:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:21:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:21:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:21:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:21:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:21:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:21:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:21:42] [Server thread/INFO]: Random Lighting Updates: false
+[11:21:42] [Server thread/INFO]: Structure Info Saving: true
+[11:21:42] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:21:42] [Server thread/INFO]: Max Entity Collisions: 8
+[11:21:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:21:42] [Server thread/INFO]: Max TNT Explosions: 100
+[11:21:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:21:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:21:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:21:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:21:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:21:42] [Server thread/INFO]: View Distance: 4
+[11:21:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:21:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:21:42] [Server thread/INFO]: Clear tick list: false
+[11:21:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:21:42] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:21:42] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:21:42] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:21:42] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:21:42] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:21:42] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:21:42] [Server thread/INFO]: Water over lava flow speed: 5
+[11:21:42] [Server thread/INFO]: Fix TNT cannons: false
+[11:21:42] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:21:42] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:21:42] [Server thread/INFO]: World async lighting: false
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:21:42] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:21:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5228380451491533541)
+[11:21:43] [Server thread/INFO]: Preparing spawn area: 80%
+[11:21:43] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7714298644204444657)
+[11:21:44] [Server thread/INFO]: Preparing spawn area: 57%
+[11:21:45] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7714298644204444657)
+[11:21:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[11:21:45] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:21:45] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[11:21:45] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[11:21:45] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[11:21:45] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[11:21:45] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[11:21:46] [Server thread/ERROR]: Error occurred while enabling Multiverse-Core v4.3.1-b861 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/entity/Phantom
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.killDecision(SimpleWorldPurger.java:152) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:119) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:197) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.SimpleWorldPurger.purgeWorld(SimpleWorldPurger.java:74) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:286) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld$SpawningPropertyValidator.validateChange(MVWorld.java:260) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.validate(SerializationConfig.java:893) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:443) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:368) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValue(SerializationConfig.java:353) ~[?:?]
+	at com.onarandombox.serializationconfig.SerializationConfig.SerializationConfig.setPropertyValueUnchecked(SerializationConfig.java:736) ~[?:?]
+	at com.onarandombox.MultiverseCore.WorldProperties.setAllowAnimalSpawn(WorldProperties.java:424) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.setAllowAnimalSpawn(MVWorld.java:767) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateEntitySpawns(MVWorld.java:195) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.validateProperties(MVWorld.java:205) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:94) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:59) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:496) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:467) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:442) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.loadWorlds(WorldManager.java:770) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:313) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.entity.Phantom
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:92) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 33 more
+[11:21:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[11:21:46] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v23.12.2
+[11:21:46] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
+[11:21:46] [Server thread/INFO]: [BedWars1058] Arena crogorm was added to the enable queue.
+[11:21:46] [Server thread/INFO]: [BedWars1058] Loading arena: crogorm
+[11:21:46] [Server thread/INFO]: [BedWars1058] Arena waterfall was added to the enable queue.
+[11:21:46] [Server thread/ERROR]: [BedWars1058] You didn't set any team for arena: speedway
+[11:21:46] [Server thread/INFO]: [BedWars1058] Hooked into PlaceholderAPI support!
+[11:21:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bw1058 [23.12.2]
+[11:21:47] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
+[11:21:47] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
+[11:21:47] [Server thread/WARN]: If you expect performance issues please increase its timer.
+[11:21:47] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
+[11:21:47] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+[11:21:47] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v4.6
+[11:21:47] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[11:21:47] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[11:21:47] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[11:21:47] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[11:21:47] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[11:21:48] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.8.0
+[11:21:48] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[11:21:49] [Server thread/INFO]: [ajLeaderboards] Loaded 2 boards
+[11:21:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ajlb [2.8.0]
+[11:21:49] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[11:21:49] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.8.0 by ajgeiss0702 enabled!
+[11:21:49] [Server thread/INFO]: [HolographicExtension] Enabling HolographicExtension v1.10.9
+[11:21:49] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;1mStarting HolographicExtension v1.10.9[m
+
+[11:21:49] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'example' from config.[m
+
+[11:21:49] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'scroller' from config.[m
+
+[11:21:49] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'typing' from config.[m
+
+[11:21:49] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'rainbow' from config.[m
+
+[11:21:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:21:49] [Server thread/INFO]: Done (7.246s)! For help, type "help" or "?"
+[11:21:49] [Server thread/INFO]: Timings Reset
+[11:21:49] [Craft Scheduler Thread - 1/WARN]: [BedWars1058] Support for v1_8_R3 is scheduled for removal. Please consider upgrading your server software to a newer Minecraft version.
+[11:21:49] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[11:21:49] [Server thread/INFO]: [0;33;22m0 placeholder hook(s) registered![m
+
+[11:21:50] [Server thread/INFO]: [BedWars1058] Loading internal Party system. /party
+[11:21:50] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[11:21:50] [Server thread/INFO]: Mob Spawn Range: 4
+[11:21:50] [Server thread/INFO]: Anti X-Ray: true
+[11:21:50] [Server thread/INFO]: 	Engine Mode: 1
+[11:21:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:21:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:21:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:21:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:21:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:21:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:21:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:21:50] [Server thread/INFO]: Random Lighting Updates: false
+[11:21:50] [Server thread/INFO]: Structure Info Saving: true
+[11:21:50] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:21:50] [Server thread/INFO]: Max Entity Collisions: 8
+[11:21:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:21:50] [Server thread/INFO]: Max TNT Explosions: 100
+[11:21:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:21:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:21:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:21:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:21:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:21:50] [Server thread/INFO]: View Distance: 4
+[11:21:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:21:50] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:21:50] [Server thread/INFO]: Clear tick list: false
+[11:21:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:21:50] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[11:21:50] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:21:50] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:21:50] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:21:50] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:21:50] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:21:50] [Server thread/INFO]: Water over lava flow speed: 5
+[11:21:50] [Server thread/INFO]: Fix TNT cannons: false
+[11:21:50] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:21:50] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:21:50] [Server thread/INFO]: World async lighting: false
+[11:21:50] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:21:50] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:21:50] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2016133699950180743)
+[11:21:51] [Server thread/INFO]: [BedWars1058] Loading arena: waterfall
+[11:21:51] [Server thread/INFO]: [BedWars1058] Load done: crogorm
+[11:21:51] [Server thread/INFO]: Registering /party command..
+[11:21:52] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[11:21:52] [Server thread/INFO]: Mob Spawn Range: 4
+[11:21:52] [Server thread/INFO]: Anti X-Ray: true
+[11:21:52] [Server thread/INFO]: 	Engine Mode: 1
+[11:21:52] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:21:52] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:21:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:21:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:21:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:21:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:21:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:21:52] [Server thread/INFO]: Random Lighting Updates: false
+[11:21:52] [Server thread/INFO]: Structure Info Saving: true
+[11:21:52] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:21:52] [Server thread/INFO]: Max Entity Collisions: 8
+[11:21:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:21:52] [Server thread/INFO]: Max TNT Explosions: 100
+[11:21:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:21:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:21:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:21:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:21:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:21:52] [Server thread/INFO]: View Distance: 4
+[11:21:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:21:52] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:21:52] [Server thread/INFO]: Clear tick list: false
+[11:21:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:21:52] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[11:21:52] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:21:52] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:21:52] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:21:52] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:21:52] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:21:52] [Server thread/INFO]: Water over lava flow speed: 5
+[11:21:52] [Server thread/INFO]: Fix TNT cannons: false
+[11:21:52] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:21:52] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:21:52] [Server thread/INFO]: World async lighting: false
+[11:21:52] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:21:52] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:21:52] [Server thread/INFO]: Preparing start region for level 4 (Seed: 5049700512796173489)
+[11:21:53] [Server thread/INFO]: [BedWars1058] Load done: waterfall
+[11:21:53] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 5.2.0-SNAPSHOT-679). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+
+[11:21:56] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
+[11:22:07] [Thread-10/INFO]: UUID of player Kami is 8ef63aa9-3cd4-3b95-b9a4-6d27acff9447
+[11:22:07] [Server thread/INFO]: Kami[/[0:0:0:0:0:0:0:1]:53406] logged in with entity id 47 at ([world]0.5, 65.0, 0.5)
+[11:22:30] [Server thread/INFO]: Kami issued server command: /bw join
+[11:22:30] [Server thread/INFO]: Kami issued server command: /bw gui
+[11:22:34] [Thread-11/INFO]: UUID of player SkibidiMotherFuc is b11acdba-0eee-3ca3-8b83-cc8947210e84
+[11:22:34] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.onPlayerJoin(PlayerList.java:314) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:173) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+[11:22:34] [Server thread/INFO]: SkibidiMotherFuc[/[0:0:0:0:0:0:0:1]:39898] logged in with entity id 2482 at ([world]0.5, 66.0, 0.5)
+[11:23:17] [Async Chat Thread - #0/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: i know thst you autsitic mionkey[m
+
+[11:23:25] [Async Chat Thread - #0/INFO]: [0;37;22m[3✩] [0;37;22mKami: what[m
+
+[11:23:26] [Async Chat Thread - #0/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: berk[m
+
+[11:23:32] [Async Chat Thread - #0/INFO]: [0;37;22m[3✩] [0;37;22mKami: berk??[m
+
+[11:24:19] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[11:24:19] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[11:25:01] [Async Chat Thread - #1/INFO]: [0;37;22m[3✩] [0;37;22mKami: if u get 10 ppl to play ill give u vip when i add ranks[m
+
+[11:25:11] [Async Chat Thread - #1/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: bruh[m
+
+[11:25:24] [Async Chat Thread - #1/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: bet[m
+
+[11:26:37] [Server thread/INFO]: Kami issued server command: /time set day
+[11:26:37] [Server thread/INFO]: [Kami: Set the time to 1000]
+[11:26:57] [Server thread/INFO]: Kami issued server command: /gamerule doMobSpawning
+[11:27:01] [Server thread/INFO]: Kami issued server command: /gamerule doMobSpawning flase
+[11:27:01] [Server thread/INFO]: [Kami: 'flase' is not true or false]
+[11:27:05] [Server thread/INFO]: Kami issued server command: /gamerule doMobSpawning false
+[11:27:05] [Server thread/INFO]: [Kami: Game rule has been updated]
+[11:27:06] [Thread-13/INFO]: UUID of player Arthurtheidk is 580215f9-3786-369b-ae42-6b0869adb6f6
+[11:27:06] [Server thread/INFO]: Arthurtheidk[/[0:0:0:0:0:0:0:1]:33288] logged in with entity id 14258 at ([world]0.5, 65.0, 0.5)
+[11:27:08] [Server thread/INFO]: Kami issued server command: /gamerule doMobSpawning
+[11:27:18] [Server thread/INFO]: Kami issued server command: /difficulty peaceful
+[11:27:18] [Server thread/INFO]: [Kami: Set game difficulty to Peaceful]
+[11:27:54] [Async Chat Thread - #2/INFO]: [0;37;22m[3✩] [0;37;22mKami: should i make a creative world?[m
+
+[11:28:11] [Server thread/INFO]: Kami issued server command: /znpcs delete 2
+[11:28:28] [Server thread/INFO]: Kami issued server command: /znpcs create 2 player
+[11:28:33] [Server thread/INFO]: Arthurtheidk issued server command: /bw join
+[11:28:33] [Server thread/INFO]: Arthurtheidk issued server command: /bw gui
+[11:28:51] [Async Chat Thread - #2/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: +![m
+
+[11:28:53] [Async Chat Thread - #2/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: + 1[m
+
+[11:29:14] [Server thread/INFO]: Kami issued server command: /znpcs create 2 player &6&lCreative
+[11:29:18] [Thread-14/INFO]: UUID of player MivDiv is 5765382c-6d4d-3596-959f-51696ed12149
+[11:29:19] [Server thread/INFO]: MivDiv[/[0:0:0:0:0:0:0:1]:39400] logged in with entity id 14262 at ([world]0.5, 65.0, 0.5)
+[11:29:23] [Thread-15/INFO]: UUID of player Berkelium is 0f00ce4c-b655-34e3-8afa-90b3b2d4c2dd
+[11:29:23] [Server thread/INFO]: Berkelium[/[0:0:0:0:0:0:0:1]:33222] logged in with entity id 14263 at ([world]0.5, 65.0, 0.5)
+[11:29:26] [Server thread/INFO]: Kami issued server command: /znpcs skin 2 Cutideptrai
+[11:30:20] [Server thread/WARN]: SkibidiMotherFuc moved wrongly!
+[11:31:08] [Async Chat Thread - #3/INFO]: [0;37;22m[3✩] [0;37;22mKami: everyone go to crogorm[m
+
+[11:31:14] [Async Chat Thread - #3/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: i gtg[m
+
+[11:31:17] [Async Chat Thread - #3/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: sorry[m
+
+[11:31:19] [Server thread/INFO]: SkibidiMotherFuc lost connection: Internal Exception: java.net.SocketException: Connection reset
+[11:31:35] [Async Chat Thread - #3/INFO]: [0;37;22m[3✩] [0;37;22mKami: guys go crogorm[m
+
+[11:31:41] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: nah[m
+
+[11:31:46] [Async Chat Thread - #3/INFO]: [0;37;22m[3✩] [0;37;22mKami: why[m
+
+[11:31:53] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: hello[m
+
+[11:32:14] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: berk[m
+
+[11:32:19] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: whta[m
+
+[11:32:21] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: hi[m
+
+[11:32:26] [Async Chat Thread - #3/INFO]: [0;37;22m[3✩] [0;37;22mKami: Arthurtheidk join crogorm u have 20 sec[m
+
+[11:32:29] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: we are 1v1ing[m
+
+[11:32:33] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: ig[m
+
+[11:32:38] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: nvm[m
+
+[11:32:41] [Async Chat Thread - #3/INFO]: [0;37;22m[1✩] [0;37;22mBerkelium: 1v1v1[m
+
+[11:33:04] [Async Chat Thread - #3/INFO]: [0;37;22m[3✩] [0;37;1m[0;33;1m[YELLOW][0;37;22m Kami first 2 to get 10 people playing gets vip when i add ranks[m
+
+[11:33:19] [Thread-16/INFO]: UUID of player tigbitties is 1352dda8-1651-3205-95a6-8301bf3c6754
+[11:33:19] [Server thread/INFO]: tigbitties[/[0:0:0:0:0:0:0:1]:37614] logged in with entity id 14883 at ([world]0.5, 65.0, 0.5)
+[11:33:20] [Thread-17/INFO]: UUID of player Electro is 8196ddcc-7029-3ac7-8c6a-2f64157e56a1
+[11:33:20] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.onPlayerJoin(PlayerList.java:314) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:173) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+[11:33:20] [Server thread/INFO]: Electro[/[0:0:0:0:0:0:0:1]:41804] logged in with entity id 14898 at ([world]-0.5, 65.0, 1.5)
+[11:33:30] [Server thread/INFO]: Kami lost connection: Disconnected
+[11:33:33] [Thread-18/INFO]: UUID of player Monkey_Kid is ed9182aa-ce6b-39d8-b4a2-1bcc72df7982
+[11:33:33] [Server thread/INFO]: Monkey_Kid[/[0:0:0:0:0:0:0:1]:56684] logged in with entity id 14958 at ([world]0.5, 65.0, 0.5)
+[11:33:58] [Server thread/INFO]: Monkey_Kid lost connection: Disconnected
+[11:34:01] [Server thread/INFO]: tigbitties lost connection: Disconnected
+[11:34:07] [Server thread/INFO]: Electro issued server command: /bw join
+[11:34:07] [Server thread/INFO]: Electro issued server command: /bw gui
+[11:34:11] [Thread-19/INFO]: UUID of player SkibidiMotherFuc is b11acdba-0eee-3ca3-8b83-cc8947210e84
+[11:34:11] [Server thread/INFO]: SkibidiMotherFuc[/[0:0:0:0:0:0:0:1]:35552] logged in with entity id 15063 at ([world]0.5, 65.0, 0.5)
+[11:34:21] [Server thread/INFO]: Electro issued server command: /bw join
+[11:34:23] [Server thread/INFO]: Electro issued server command: /bw join
+[11:34:23] [Server thread/INFO]: Electro issued server command: /bw gui
+[11:34:30] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: yo what up bois[m
+
+[11:34:33] [Server thread/INFO]: Electro issued server command: /bw join crogorn blue
+[11:34:35] [Server thread/INFO]: Electro issued server command: /bw join
+[11:34:35] [Server thread/INFO]: Electro issued server command: /bw gui
+[11:34:38] [Server thread/INFO]: Electro issued server command: /bw join
+[11:34:38] [Server thread/INFO]: Electro issued server command: /bw gui
+[11:34:45] [Server thread/INFO]: Electro issued server command: /bw join crogorm blue
+[11:35:20] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: berk[m
+
+[11:35:24] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: can yall hear me[m
+
+[11:35:34] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: maxx[m
+
+[11:35:36] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: and berekk[m
+
+[11:35:38] [Thread-20/INFO]: UUID of player Hiii is be2ece57-4982-3e71-813f-658a16697cc5
+[11:35:38] [Server thread/INFO]: Hiii[/[0:0:0:0:0:0:0:1]:52622] logged in with entity id 15134 at ([world]0.5, 65.0, 0.5)
+[11:35:39] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: bruh' whyu[m
+
+[11:35:43] [Async Chat Thread - #4/INFO]: [0;37;22m[1✩] [0;37;1m[0;32;1m[GREEN][0;37;22m Berkelium i hate this game[m
+
+[11:35:46] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: stfu[m
+
+[11:35:49] [Async Chat Thread - #4/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: ur bad[m
+
+[11:36:32] [Server thread/INFO]: Electro lost connection: Disconnected
+[11:37:15] [Server thread/INFO]: SkibidiMotherFuc issued server command: /gamemode c
+[11:38:41] [Server thread/INFO]: Berkelium has just earned the achievement [Taking Inventory]
+[11:40:03] [Thread-21/INFO]: UUID of player DaFrog is e3d3647d-6eb2-361a-9f9e-0a15419ac788
+[11:40:03] [Server thread/INFO]: DaFrog[/[0:0:0:0:0:0:0:1]:49474] logged in with entity id 15692 at ([world]0.5, 65.0, 0.5)
+[11:40:20] [Async Chat Thread - #5/INFO]: [0;37;22m[1✩] [0;37;1m[0;32;1m[GREEN][0;37;22m Berkelium i died to lag...[m
+
+[11:40:35] [Server thread/INFO]: DaFrog has just earned the achievement [Taking Inventory]
+[11:40:50] [Server thread/INFO]: DaFrog lost connection: Disconnected
+[11:41:17] [Server thread/ERROR]: Could not pass event TeamEliminatedEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.DamageDeathMove.onRespawn(DamageDeathMove.java:548) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.moveToWorld(PlayerList.java:584) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.moveToWorld(PlayerList.java:523) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer$1.respawn(CraftPlayer.java:1479) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.DamageDeathMove.lambda$onDeath$2(DamageDeathMove.java:487) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at com.andrei1058.bedwars.arena.upgrades.HealPoolTask.removeForTeam(HealPoolTask.java:112) ~[?:?]
+	at com.andrei1058.bedwars.arena.upgrades.HealPoolListner.teamDead(HealPoolListner.java:40) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[11:41:22] [Server thread/INFO]: Berkelium lost connection: Disconnected
+[11:41:31] [Server thread/INFO]: SkibidiMotherFuc lost connection: Disconnected
+[11:42:12] [Server thread/INFO]: [BedWars1058] Arena crogorm was added to the enable queue.
+[11:42:12] [Server thread/INFO]: [BedWars1058] Loading arena: crogorm
+[11:42:13] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[11:42:13] [Server thread/INFO]: Mob Spawn Range: 4
+[11:42:13] [Server thread/INFO]: Anti X-Ray: true
+[11:42:13] [Server thread/INFO]: 	Engine Mode: 1
+[11:42:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:42:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:42:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:42:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:42:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:42:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:42:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:42:13] [Server thread/INFO]: Random Lighting Updates: false
+[11:42:13] [Server thread/INFO]: Structure Info Saving: true
+[11:42:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:42:13] [Server thread/INFO]: Max Entity Collisions: 8
+[11:42:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:42:13] [Server thread/INFO]: Max TNT Explosions: 100
+[11:42:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:42:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:42:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:42:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:42:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:42:13] [Server thread/INFO]: View Distance: 4
+[11:42:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:42:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:42:13] [Server thread/INFO]: Clear tick list: false
+[11:42:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:42:13] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[11:42:13] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:42:13] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:42:13] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:42:13] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:42:13] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:42:13] [Server thread/INFO]: Water over lava flow speed: 5
+[11:42:13] [Server thread/INFO]: Fix TNT cannons: false
+[11:42:13] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:42:13] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:42:13] [Server thread/INFO]: World async lighting: false
+[11:42:13] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:42:13] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:42:13] [Server thread/INFO]: Preparing start region for level 4 (Seed: -8038172675761079694)
+[11:42:13] [Server thread/INFO]: [BedWars1058] Load done: crogorm
+[11:43:54] [Thread-22/INFO]: UUID of player Nur is f0117c34-569d-37f5-876d-43629fb995c7
+[11:43:54] [Server thread/INFO]: Nur[/[0:0:0:0:0:0:0:1]:43538] logged in with entity id 15760 at ([world]0.5, 65.0, 0.5)
+[11:45:39] [Thread-23/INFO]: UUID of player SkibidiMotherFuc is b11acdba-0eee-3ca3-8b83-cc8947210e84
+[11:45:39] [Server thread/INFO]: SkibidiMotherFuc[/[0:0:0:0:0:0:0:1]:53350] logged in with entity id 16424 at ([world]0.5, 65.0, 0.5)
+[11:46:12] [Server thread/INFO]: Hiii lost connection: Disconnected
+[11:46:19] [Server thread/WARN]: SkibidiMotherFuc moved wrongly!
+[11:46:32] [Async Chat Thread - #6/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: max bor ur bed is susys[m
+
+[11:49:01] [Thread-24/INFO]: UUID of player Kami is 8ef63aa9-3cd4-3b95-b9a4-6d27acff9447
+[11:49:01] [Server thread/INFO]: Kami[/[0:0:0:0:0:0:0:1]:45178] logged in with entity id 16744 at ([world]0.5, 65.0, 0.5)
+[11:49:52] [Server thread/INFO]: Nur has just earned the achievement [Taking Inventory]
+[11:50:05] [Server thread/INFO]: Kami issued server command: /gamemode creative
+[11:50:05] [Server thread/INFO]: [Kami: Set own game mode to Creative Mode]
+[11:50:19] [Thread-25/INFO]: UUID of player Electro is 8196ddcc-7029-3ac7-8c6a-2f64157e56a1
+[11:50:19] [Server thread/INFO]: Electro[/[0:0:0:0:0:0:0:1]:59710] logged in with entity id 16995 at ([world]0.5, 65.0, 0.5)
+[11:50:25] [Server thread/INFO]: Electro lost connection: Disconnected
+[11:50:37] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: what de gail[m
+
+[11:50:40] [Server thread/INFO]: Kami lost connection: Disconnected
+[11:50:41] [Server thread/INFO]: Nur lost connection: Disconnected
+[11:50:51] [Server thread/INFO]: SkibidiMotherFuc issued server command: /leave
+[11:51:12] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: max[m
+
+[11:51:17] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: join waterfall when its done[m
+
+[11:51:24] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[11:51:24] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[11:51:26] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[11:51:26] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[11:51:28] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[11:51:28] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[11:51:34] [Server thread/INFO]: [BedWars1058] Arena waterfall was added to the enable queue.
+[11:51:34] [Server thread/INFO]: [BedWars1058] Loading arena: waterfall
+[11:51:34] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[11:51:34] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:34] [Server thread/INFO]: Anti X-Ray: true
+[11:51:34] [Server thread/INFO]: 	Engine Mode: 1
+[11:51:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:51:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:51:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:51:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:51:34] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:34] [Server thread/INFO]: Structure Info Saving: true
+[11:51:34] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:51:34] [Server thread/INFO]: Max Entity Collisions: 8
+[11:51:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:51:34] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:34] [Server thread/INFO]: View Distance: 4
+[11:51:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:51:34] [Server thread/INFO]: Clear tick list: false
+[11:51:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:34] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[11:51:34] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:51:34] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:51:34] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:51:34] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:51:34] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:51:34] [Server thread/INFO]: Water over lava flow speed: 5
+[11:51:34] [Server thread/INFO]: Fix TNT cannons: false
+[11:51:34] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:51:34] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:51:34] [Server thread/INFO]: World async lighting: false
+[11:51:34] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:51:34] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:51:34] [Server thread/INFO]: Preparing start region for level 4 (Seed: 2323993965503087209)
+[11:51:34] [Server thread/INFO]: [BedWars1058] Load done: waterfall
+[11:52:01] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: get on waterfall[m
+
+[11:52:05] [Async Chat Thread - #7/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: bet[m
+
+[11:52:15] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: be prepareed to meet jesus outside[m
+
+[11:52:26] [Thread-26/INFO]: UUID of player TurndUp4Wat is 81044cfb-722a-388f-8144-121da07c0b52
+[11:52:26] [Server thread/INFO]: TurndUp4Wat[/[0:0:0:0:0:0:0:1]:47370] logged in with entity id 18732 at ([world]0.5, 65.0, 0.5)
+[11:52:27] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: you know who i am[m
+
+[11:52:29] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: ?[m
+
+[11:52:31] [Async Chat Thread - #7/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: no?[m
+
+[11:52:34] [Async Chat Thread - #7/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: who[m
+
+[11:52:35] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: hehehe[m
+
+[11:52:36] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: i do[m
+
+[11:52:39] [Async Chat Thread - #7/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: who[m
+
+[11:52:41] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: im too stronk[m
+
+[11:52:45] [Async Chat Thread - #7/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: who r u[m
+
+[11:52:47] [Async Chat Thread - #7/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: youll never know[m
+
+[11:53:05] [Thread-27/INFO]: UUID of player Berkelium is 0f00ce4c-b655-34e3-8afa-90b3b2d4c2dd
+[11:53:05] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.onPlayerJoin(PlayerList.java:314) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:173) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+[11:53:05] [Server thread/INFO]: Berkelium[/[0:0:0:0:0:0:0:1]:36316] logged in with entity id 21063 at ([world]0.5, 66.0, 0.5)
+[11:53:07] [Server thread/INFO]: MivDiv lost connection: Disconnected
+[11:54:33] [Async Chat Thread - #8/INFO]: [0;37;22m[2✩] [0;37;1m[0;35;1m[PINK][0;37;22m SkibidiMotherFuc f[m
+
+[12:00:00] [Async Chat Thread - #9/INFO]: [0;37;22m[4✩] [0;37;1m[0;31;1m[RED][0;37;22m TurndUp4Wat gg[m
+
+[12:00:04] [Server thread/INFO]: TurndUp4Wat issued server command: /leave
+[12:00:18] [Server thread/INFO]: [BedWars1058] Arena waterfall was added to the enable queue.
+[12:00:18] [Server thread/INFO]: [BedWars1058] Loading arena: waterfall
+[12:00:18] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[12:00:18] [Server thread/INFO]: Mob Spawn Range: 4
+[12:00:18] [Server thread/INFO]: Anti X-Ray: true
+[12:00:18] [Server thread/INFO]: 	Engine Mode: 1
+[12:00:18] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:00:18] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:00:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:00:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:00:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:00:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:00:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:00:18] [Server thread/INFO]: Random Lighting Updates: false
+[12:00:18] [Server thread/INFO]: Structure Info Saving: true
+[12:00:18] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:00:18] [Server thread/INFO]: Max Entity Collisions: 8
+[12:00:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:00:18] [Server thread/INFO]: Max TNT Explosions: 100
+[12:00:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:00:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:00:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:00:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:00:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:00:18] [Server thread/INFO]: View Distance: 4
+[12:00:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:00:18] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:00:18] [Server thread/INFO]: Clear tick list: false
+[12:00:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:00:18] [Server thread/INFO]: -------- World Settings For [waterfall] --------
+[12:00:18] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[12:00:18] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[12:00:18] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:00:18] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:00:18] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:00:18] [Server thread/INFO]: Water over lava flow speed: 5
+[12:00:18] [Server thread/INFO]: Fix TNT cannons: false
+[12:00:18] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[12:00:18] [Server thread/INFO]: Keep spawn chunk loaded: true
+[12:00:18] [Server thread/INFO]: World async lighting: false
+[12:00:18] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[12:00:18] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:00:18] [Server thread/INFO]: Preparing start region for level 4 (Seed: 7512124995902389095)
+[12:00:19] [Server thread/INFO]: [BedWars1058] Load done: waterfall
+[12:00:23] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[12:00:23] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[12:00:24] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[12:00:24] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[12:00:26] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw join
+[12:00:26] [Server thread/INFO]: SkibidiMotherFuc issued server command: /bw gui
+[12:01:10] [Thread-29/INFO]: UUID of player Warden243 is 34b7d5be-a18b-3c25-914a-6184e7278d6b
+[12:01:10] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.onPlayerJoin(PlayerList.java:314) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:173) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+[12:01:10] [Server thread/INFO]: Warden243[/[0:0:0:0:0:0:0:1]:46146] logged in with entity id 40150 at ([world]0.5, 65.0, 0.5)
+[12:02:17] [Thread-30/INFO]: UUID of player tigbitties is 1352dda8-1651-3205-95a6-8301bf3c6754
+[12:02:17] [Server thread/INFO]: tigbitties[/[0:0:0:0:0:0:0:1]:60558] logged in with entity id 41540 at ([world]0.5, 65.0, 0.5)
+[12:03:25] [Thread-31/INFO]: UUID of player Charles24 is b69e9ae8-6e87-3bbf-a81e-b01bfc7d510d
+[12:03:25] [Server thread/INFO]: Charles24[/[0:0:0:0:0:0:0:1]:56544] logged in with entity id 44350 at ([world]0.5, 65.0, 0.5)
+[12:03:28] [Thread-32/INFO]: UUID of player Monkey_Kid is ed9182aa-ce6b-39d8-b4a2-1bcc72df7982
+[12:03:28] [Server thread/INFO]: Monkey_Kid[/[0:0:0:0:0:0:0:1]:56546] logged in with entity id 44594 at ([world]0.5, 65.0, 0.5)
+[12:03:50] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mtigbitties: leave charles[m
+
+[12:03:54] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mtigbitties: please[m
+
+[12:04:01] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mCharles24: 1v1ing?[m
+
+[12:04:04] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mtigbitties: yeah[m
+
+[12:04:08] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mCharles24: I wanna play tho[m
+
+[12:04:09] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mtigbitties: sorry[m
+
+[12:04:12] [Async Chat Thread - #10/INFO]: [0;37;22m[1✩] [0;37;22mCharles24: k[m
+
+[12:04:43] [Thread-33/INFO]: UUID of player 8000 is 497abfc0-d3a9-3c69-af7b-9b9d2b395b1e
+[12:04:43] [Server thread/INFO]: 8000[/[0:0:0:0:0:0:0:1]:53518] logged in with entity id 50156 at ([world]0.5, 65.0, 0.5)
+[12:05:17] [Server thread/INFO]: 8000 issued server command: /bw join
+[12:05:17] [Server thread/INFO]: 8000 issued server command: /bw gui
+[12:05:24] [Server thread/INFO]: Charles24 lost connection: Disconnected
+[12:05:25] [Server thread/INFO]: 8000 issued server command: /bw join
+[12:05:25] [Server thread/INFO]: 8000 issued server command: /bw gui
+[12:05:27] [Server thread/INFO]: 8000 issued server command: /bw join
+[12:05:27] [Server thread/INFO]: 8000 issued server command: /bw gui
+[12:05:28] [Thread-34/INFO]: UUID of player Charles24 is b69e9ae8-6e87-3bbf-a81e-b01bfc7d510d
+[12:05:28] [Server thread/INFO]: Charles24[/[0:0:0:0:0:0:0:1]:57050] logged in with entity id 52628 at ([world]0.5, 65.0, 0.5)
+[12:05:33] [Server thread/INFO]: 8000 issued server command: /bw join
+[12:05:33] [Server thread/INFO]: 8000 issued server command: /bw gui
+[12:05:37] [Server thread/INFO]: 8000 issued server command: /bw join
+[12:05:37] [Server thread/INFO]: 8000 issued server command: /bw gui
+[12:06:39] [Async Chat Thread - #11/INFO]: [0;37;22m[1✩] [0;37;22mCharles24: iop[[m
+
+[12:06:49] [Thread-35/INFO]: UUID of player MivDiv is 5765382c-6d4d-3596-959f-51696ed12149
+[12:06:49] [Server thread/INFO]: MivDiv[/[0:0:0:0:0:0:0:1]:42022] logged in with entity id 58090 at ([world]0.5, 65.0, 0.5)
+[12:07:29] [Thread-36/INFO]: UUID of player Nur is f0117c34-569d-37f5-876d-43629fb995c7
+[12:07:29] [Server thread/INFO]: Nur[/[0:0:0:0:0:0:0:1]:47240] logged in with entity id 61193 at ([world]0.5, 65.0, 0.5)
+[12:07:39] [Thread-37/INFO]: UUID of player yiggnigger is ab4de97d-2617-3d8b-b4b8-c9b2e211b0f6
+[12:07:39] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v23.12.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.onPlayerJoin(PlayerList.java:314) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:173) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:875) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:925) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:911) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setItem(CraftInventoryPlayer.java:75) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventory.clear(CraftInventory.java:400) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryPlayer.setArmorContents(CraftInventoryPlayer.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:44) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 15 more
+[12:07:39] [Server thread/INFO]: yiggnigger[/[0:0:0:0:0:0:0:1]:35714] logged in with entity id 61951 at ([world]-2.5, 65.0, -2.5)
+[12:08:04] [Async Chat Thread - #12/INFO]: [0;37;22m[1✩] [0;37;22myiggnigger: guys[m
+
+[12:08:09] [Async Chat Thread - #12/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: what[m
+
+[12:08:14] [Async Chat Thread - #12/INFO]: [0;37;22m[1✩] [0;37;22myiggnigger: turndup4wats name is magnus[m
+
+[12:08:21] [Async Chat Thread - #12/INFO]: [0;37;22m[4✩] [0;37;1m[0;34;1m[BLUE][0;37;22m TurndUp4Wat W[m
+
+[12:08:23] [Server thread/INFO]: yiggnigger issued server command: /bw join
+[12:08:23] [Server thread/INFO]: yiggnigger issued server command: /bw gui
+[12:08:24] [Async Chat Thread - #12/INFO]: [0;37;22m[2✩] [0;37;1m[0;32;1m[GREEN][0;37;22m SkibidiMotherFuc bekr[m
+
+[12:08:35] [Async Chat Thread - #12/INFO]: [0;37;22m[1✩] [0;37;1m[0;33;1m[YELLOW][0;37;22m Berkelium i jjust deepfried your bed[m
+
+[12:08:55] [Async Chat Thread - #12/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: noo ostop terrorizing[m
+
+[12:08:57] [Async Chat Thread - #12/INFO]: [0;37;22m[1✩] [0;37;1m[0;33;1m[YELLOW][0;37;22m Berkelium gg[m
+
+[12:08:58] [Server thread/INFO]: yiggnigger has just earned the achievement [Taking Inventory]
+[12:10:09] [Async Chat Thread - #13/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: LMAOOO[m
+
+[12:10:18] [Async Chat Thread - #13/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: e[m
+
+[12:10:21] [Async Chat Thread - #13/INFO]: [0;37;22m[4✩] [0;37;1m[0;34;1m[BLUE][0;37;22m TurndUp4Wat lol[m
+
+[12:10:32] [Async Chat Thread - #13/INFO]: [0;37;22m[4✩] [0;37;1m[0;34;1m[BLUE][0;37;22m TurndUp4Wat gg[m
+
+[12:10:37] [Async Chat Thread - #13/INFO]: [0;37;22m[2✩] [0;37;22m[SPECTATOR] SkibidiMotherFuc: berk is so ssusy[m
+
+[12:10:51] [Server thread/INFO]: SkibidiMotherFuc issued server command: /levae
+[12:10:53] [Server thread/INFO]: SkibidiMotherFuc issued server command: /leave
+[12:11:14] [Server thread/INFO]: [BedWars1058] Arena crogorm was added to the enable queue.
+[12:11:14] [Server thread/INFO]: [BedWars1058] Loading arena: crogorm
+[12:11:14] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[12:11:14] [Server thread/INFO]: Mob Spawn Range: 4
+[12:11:14] [Server thread/INFO]: Anti X-Ray: true
+[12:11:14] [Server thread/INFO]: 	Engine Mode: 1
+[12:11:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:11:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:11:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:11:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:11:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:11:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:11:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:11:14] [Server thread/INFO]: Random Lighting Updates: false
+[12:11:14] [Server thread/INFO]: Structure Info Saving: true
+[12:11:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:11:14] [Server thread/INFO]: Max Entity Collisions: 8
+[12:11:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:11:14] [Server thread/INFO]: Max TNT Explosions: 100
+[12:11:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:11:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:11:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:11:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:11:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:11:14] [Server thread/INFO]: View Distance: 4
+[12:11:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:11:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:11:14] [Server thread/INFO]: Clear tick list: false
+[12:11:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:11:14] [Server thread/INFO]: -------- World Settings For [crogorm] --------
+[12:11:14] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[12:11:14] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[12:11:14] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:11:14] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:11:14] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:11:14] [Server thread/INFO]: Water over lava flow speed: 5
+[12:11:14] [Server thread/INFO]: Fix TNT cannons: false
+[12:11:14] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[12:11:14] [Server thread/INFO]: Keep spawn chunk loaded: true
+[12:11:14] [Server thread/INFO]: World async lighting: false
+[12:11:14] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[12:11:14] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:11:14] [Server thread/INFO]: Preparing start region for level 4 (Seed: 4961039395052332795)
+[12:11:14] [Server thread/INFO]: [BedWars1058] Load done: crogorm
+[12:11:43] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: its ok[m
+
+[12:11:50] [Server thread/INFO]: Nur issued server command: /leave
+[12:11:50] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: bruhh[m
+
+[12:11:54] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: we got the gang[m
+
+[12:11:56] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: les goo[m
+
+[12:11:57] [Server thread/INFO]: yiggnigger lost connection: Disconnected
+[12:11:59] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: max berk[m
+
+[12:12:00] [Async Chat Thread - #14/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: yooo[m
+
+[12:12:05] [Server thread/INFO]: Warden243 lost connection: Disconnected
+[12:12:06] [Async Chat Thread - #14/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: who are u[m
+
+[12:12:16] [Async Chat Thread - #14/INFO]: [0;37;22m[1✩] [0;37;22mMivDiv: WHO ARE UUUUU[m
+
+[12:12:20] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;22mSkibidiMotherFuc: the 10th letter of the alphabet[m
+
+[12:12:29] [Async Chat Thread - #14/INFO]: [0;37;22m[2✩] [0;37;1m[0;34;1m[BLUE][0;37;22m SkibidiMotherFuc o[m
+
+[12:14:19] [Server thread/INFO]: TurndUp4Wat lost connection: Disconnected
+[12:15:13] [Server thread/INFO]: Charles24 lost connection: Timed out
